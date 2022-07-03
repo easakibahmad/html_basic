@@ -1,3 +1,10 @@
 h1{
     text-align: center;
 }
+.nea{
+    background-image: url(image/neha2.jpeg);
+}
+.nw{
+    background-image: url(image/neha.jpg);
+    color: red;
+}
